@@ -50,3 +50,7 @@ VALUES
 
   --7 Retrieve the top-selling products in descending order by quantity sold:
   select product, sum(quantity) as total_quantity from sales group by product order by sum(quantity) desc
+
+
+
+
