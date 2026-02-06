@@ -3,8 +3,11 @@ Suppose you work for a company that sells products online. Your team is responsi
 
 
 <h2>Example of sales data exploration</h2>:
+<h3>1:</h3>
 <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/b08cf5f5-ca5c-4007-b83f-0441d32f7fb4" /><br>
+<h3>2:</h3>
 <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/9af88e3e-6cab-4bd1-b5cc-1e6e0007e72c" /><br>
+<h3>3:</h3>
 <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/f33ebad1-d0d2-417c-a032-bd8a1f2d6269" />
 
 <p>These queries will provide different insights into the sales data, such as which products are selling the most, which days have the highest revenue, and which products are the most profitable. With these insights, you can make recommendations for improving the company's sales performance, such as increasing marketing efforts for popular products or adjusting pricing for less profitable products.
