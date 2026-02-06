@@ -3,5 +3,6 @@ Suppose you work for a company that sells products online. Your team is responsi
 
 
 <h2>Example of sales data exploration</h2>:
-<img width="508" height="200" alt="Image" src="https://github.com/user-attachments/assets/b08cf5f5-ca5c-4007-b83f-0441d32f7fb4" />
-<img width="508" height="200" alt="Image" src="https://github.com/user-attachments/assets/9af88e3e-6cab-4bd1-b5cc-1e6e0007e72c" />
+<img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/b08cf5f5-ca5c-4007-b83f-0441d32f7fb4" />
+<img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/9af88e3e-6cab-4bd1-b5cc-1e6e0007e72c" />
+<img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/f33ebad1-d0d2-417c-a032-bd8a1f2d6269" />
