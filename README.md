@@ -2,7 +2,7 @@
 Suppose you work for a company that sells products online. Your team is responsible for analyzing sales data to identify trends and patterns, and to make recommendations for improving the company's sales performance. 
 
 
-<h2>Example of sales data exploration</h2>:
+<h2>Example of sales data exploration</h2>
 <h3>1:</h3>
 <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/b08cf5f5-ca5c-4007-b83f-0441d32f7fb4" /><br>
 <h3>2:</h3>
